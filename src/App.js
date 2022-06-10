@@ -47,23 +47,27 @@ function App() {
     const data = [
         {
             url: "./assets/images/1.jpg",
-            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmeFGFyW5AkjfPkexnhBQxottDvnddoZxqhxPcYLhoN763/1.json')",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/1.json')",
         },
         {
           url: "./assets/images/2.jpg",
-            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmeFGFyW5AkjfPkexnhBQxottDvnddoZxqhxPcYLhoN763/2.json')",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/2.json')",
         },
         {
           url: "./assets/images/3.jpg",
-            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmeFGFyW5AkjfPkexnhBQxottDvnddoZxqhxPcYLhoN763/3.json')",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/3.json')",
         },
         {
           url: "./assets/images/4.jpg",
-            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmeFGFyW5AkjfPkexnhBQxottDvnddoZxqhxPcYLhoN763/2.json')",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/4.json')",
+        },
+        {
+          url: "./assets/images/6.jpg",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/6.json')",
         },
         {
           url: "./assets/images/5.jpg",
-            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmeFGFyW5AkjfPkexnhBQxottDvnddoZxqhxPcYLhoN763/2.json')",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/5.json')",
         },
     ];
 
@@ -97,7 +101,7 @@ function App() {
         <>
          <div className="container">
            <br/>
-          <h1> 🔮 Mayang Gallery</h1>
+          <h1> 🔮 Mayang NFT Gallery</h1>
           <h2>NFT Ganu Kiter</h2>
           <p>Buy heritage NFT from our marketplace.</p>
   
