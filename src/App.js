@@ -46,7 +46,7 @@ function App() {
 
     const data = [
         {
-            url: "./assets/images/1.jpg",
+            url: "https://solless.mypinata.cloud/ipfs/QmPzq3SXs9abnPB26L4f8caesucNmhAgch6rTiw4AzzWTJ/1.jpg",
             param: "handleMint('https://solless.mypinata.cloud/ipfs/QmPK8KTmK2kDq7aKSoKcsFWzC19CiwddqND3qYhobhPyYr/1.json')",
         },
         {
